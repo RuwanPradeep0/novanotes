@@ -10,11 +10,6 @@
 - [Learning Objectives](#learning-objectives)
 - [License](#license)
 
-[//]: # (- [Getting Started](#getting-started))
-
-[//]: # (- [Contributors](#contributors))
-
-[//]: # (- [Acknowledgments](#acknowledgments))
 
 ## Overview
 
